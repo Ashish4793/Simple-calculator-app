@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: #FBF2CF;
+    font-weight: 100;
+}
+
+h1 {
+    margin-top: 40px;
+    font-size: 100px;
+    padding-bottom: 7%;
+    color: #FA7070;
+}
+
+h2{
+    font-size: 70px;
+    color: #FA7070;
+    padding: 40px;
+}
+
+select{
+    color: #FA7070;
+    width: 150px;
+    height: 30px;
+}
+
+.num{
+    width: 300px;
+    height: 30px;
+    font-size: medium;
+}
+
+.btn{
+    text-align: center;
+    margin-top: 25px;
+    background-color: #FA7070;
+    border-color: #FA7070;
+}
